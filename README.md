@@ -35,7 +35,7 @@ This allows creating multi-panel Steam artwork showcases similar to those common
 1. Select an MP4 file.
 2. Choose FPS and output size.
 3. Enable Workshop Mode if you need a 5-panel Steam artwork.
-4. Click Convert.
+4. Click Start.
 
 ## Version
 
