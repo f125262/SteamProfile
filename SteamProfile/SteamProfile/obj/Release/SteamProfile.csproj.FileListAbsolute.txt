@@ -1,0 +1,15 @@
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamProfile.csproj.AssemblyReference.cache
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamProfile.Form1.resources
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamProfile.Properties.Resources.resources
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamProfile.csproj.GenerateResource.cache
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamProfile.csproj.CoreCompileInputs.cache
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Release\SteamProfile.exe.config
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Release\SteamProfile.exe
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Release\SteamProfile.pdb
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamProfile.exe
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamProfile.pdb
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamProfile.exe.config
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Release\Costura.dll
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Release\Costura.pdb
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Release\Costura.xml
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Release\SteamPro.76C14CF6.Up2Date

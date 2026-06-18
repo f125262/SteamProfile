@@ -1,0 +1,11 @@
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Debug\SteamProfile.exe.config
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Debug\SteamProfile.exe
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\bin\Debug\SteamProfile.pdb
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Debug\SteamProfile.csproj.AssemblyReference.cache
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Debug\SteamProfile.Properties.Resources.resources
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Debug\SteamProfile.csproj.GenerateResource.cache
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Debug\SteamProfile.csproj.CoreCompileInputs.cache
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Debug\SteamProfile.exe
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Debug\SteamProfile.pdb
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Debug\SteamProfile.exe.config
+C:\Users\ACF\Desktop\SteamProfile\SteamProfile\obj\Debug\SteamProfile.Form1.resources
