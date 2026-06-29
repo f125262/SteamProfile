@@ -48,6 +48,23 @@ https://drive.google.com/file/d/1Exi9l33NA6KybkfgMbhhcmInb2rmw19n/view?usp=shari
 
 ## Changelog
 
+### v3.0.0
+* New Features
+* Drag & Drop support
+* Advanced settings menu
+* Automatic unique output file naming
+* Automatic unique project folder naming
+* Delete temporary files
+* Open output folder after conversion
+* Improvements
+* Better project structure
+* Code split into multiple source files
+* Improved conversion workflow
+* Improved file management
+* UI
+* Expanded Cyberpunk-inspired interface
+* Improved overall usability
+
 ### v2.0.0
 
 * Complete UI redesign
